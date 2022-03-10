@@ -3,7 +3,7 @@
    # ScreenShots Of the Project
   # This is the home page of the project
 ![Screenshot (1)](https://user-images.githubusercontent.com/91620114/155885843-aca8ab0c-9ec8-4bf6-bdb5-23560dcb9735.png)
-  # Featured  products 
+  # Featured  products(In this section various healthy fruits and vegetables are present)
 ![Screenshot (2)](https://user-images.githubusercontent.com/91620114/155885856-fd33a4e8-bd77-49e6-97eb-79404f132fcc.png)
    
 ![Screenshot (3)](https://user-images.githubusercontent.com/91620114/155885860-523361a7-0796-4270-90d3-bf25624e585f.png)
