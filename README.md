@@ -1,7 +1,7 @@
 # onlinehealthyfood
   Healthy food are those that provide you with the nutrients . you need to sustain your body well-being and retain energy . vitamins , proteins , carbohydrates , fat , minerals     are the key nutrients that make up a healthy and balanced diet . In this websites products are listed with nutritional values like any other website like e - commerce we can        click and order the product by seeing the nutritional values .
    # ScreenShots Of the Project
-  # This is the home page of the project
+  #  Home page of the project
 ![Screenshot (1)](https://user-images.githubusercontent.com/91620114/155885843-aca8ab0c-9ec8-4bf6-bdb5-23560dcb9735.png)
   # Featured  products(In this section various healthy fruits and vegetables are present)
 ![Screenshot (2)](https://user-images.githubusercontent.com/91620114/155885856-fd33a4e8-bd77-49e6-97eb-79404f132fcc.png)
