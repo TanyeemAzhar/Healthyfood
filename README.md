@@ -1,6 +1,6 @@
 # onlinehealthyfood
    # ScreenShot Of the Project
-  # This is the home page .
+  # This is the home page of the project
 ![Screenshot (1)](https://user-images.githubusercontent.com/91620114/155885843-aca8ab0c-9ec8-4bf6-bdb5-23560dcb9735.png)
   
 ![Screenshot (2)](https://user-images.githubusercontent.com/91620114/155885856-fd33a4e8-bd77-49e6-97eb-79404f132fcc.png)
